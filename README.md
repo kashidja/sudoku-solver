@@ -1,3 +1,3 @@
 SUDOKU SOLVER
 
-simple sudoku solver using javascript
+simple sudoku solver using java
